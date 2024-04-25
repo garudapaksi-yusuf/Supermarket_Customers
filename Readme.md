@@ -2,9 +2,9 @@
 
 ## About
 
-A Supermarket selling various items, ranging from common household supplies (meats, fish, and fruits) to specific commodities (wines, sweets, and golds) towards various kinds of individual customers. Clients of this Supermarket may purchase the products directly in stores or via other media, namely website and catalog. This Supermarket also has done six promotional campaigns to their customers offering discounted price.
+A `Supermarket` selling various items, ranging from common household supplies (`Meats`, `Fish`, and `Fruits`) to specific commodities (`Wines`, `Sweets`, and `Golds`) towards various kinds of individual `Customers`. Clients of this Supermarket may purchase the products directly in `Stores` or via other media, namely `Website` and `Catalog`. This Supermarket also has done six `Promotion` campaigns to their customers offering discounted price.
 
-Apparently the conversion rate (percentage of customers accepting those discount offerings) are persistently low from one campaign to another. This questions the effectivity of Supermarket's campaign process. Supermarket's Marketing Manager as our stakeholder then tasked us, the data analyst, to find a new approach that can solve this "low-rate" problem.
+Apparently the <b>conversion rate</b> (percentage of customers accepting those discount offerings) are persistently low from one campaign to another. This questions the effectivity of Supermarket's campaign process. Supermarket's Marketing Manager as our stakeholder then tasked us, the data analyst, to find a new approach that can solve this "low-rate" problem.
 
 ## Usage
 
