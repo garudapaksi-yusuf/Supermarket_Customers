@@ -1,7 +1,5 @@
 ![Header](./docs/header.png)
 
-## About
-
 A `Supermarket` selling various items, ranging from common household supplies (`Meats`, `Fish`, and `Fruits`) to specific commodities (`Wines`, `Sweets`, and `Golds`) towards various kinds of individual `Customers`. Clients of this Supermarket may purchase the products directly in `Stores` or via other media, namely `Website` and `Catalog`. This Supermarket also has done six `Promotion` campaigns to their customers offering discounted price.
 
 Apparently the <b>conversion rate</b> (percentage of customers accepting those discount offerings) are persistently low from one campaign to another. This questions the effectivity of Supermarket's campaign process. Supermarket's Marketing Manager as our stakeholder then tasked us, the data analyst, to find a new approach that can solve this "low-rate" problem.
